@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @pheelwesley
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning R programming.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning cdinng.
+- 💞️ I’m looking to collaborate on data analysis.
 - 📫 How to reach me: pheelimiyanwesley@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i'm an athlete that loves baskeball.
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: i'm astudent athlete, i play basketball.
 
 <!---
 pheelwesley/pheelwesley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
