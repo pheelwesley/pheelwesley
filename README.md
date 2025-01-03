@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pheelwesley
+- 👋 Hi, I’m @pheelimiyanwesley
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on data analysis.
